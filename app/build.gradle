@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.matpergo.androcr"
+        minSdkVersion 14
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/json_simple-1.1.jar')
+    compile files('libs/jtar-1.1.jar')
+    compile files('libs/microsoft-translator-java-api-0.6-mod.jar')
+    compile project(':tess-two')
+}

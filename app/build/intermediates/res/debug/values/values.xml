@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/acer/Desktop/NoteShort/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Generate_Mindmap">Generate Mindmap</string>
+    <string name="PSM_AUTO">Automatic</string>
+    <string name="PSM_SINGLE_BLOCK">Single block</string>
+    <string name="PSM_SINGLE_BLOCK_VERT_TEXT">Single block vertically aligned</string>
+    <string name="PSM_SINGLE_CHAR">Single character</string>
+    <string name="PSM_SINGLE_LINE">Single line</string>
+    <string name="PSM_SINGLE_WORD">Single word</string>
+    <string name="Summarize">Summarize</string>
+    <string name="about">About</string>
+    <string name="about_text">An Android application using Tesseract OCR engine.\nVersion 1.0\nBy TechBlazer</string>
+    <string name="app_label">NoteShort</string>
+    <string name="app_name">AndrOCRApp</string>
+    <string name="bulgarian">Bulgarian</string>
+    <string name="calcpro">Calculator Pro</string>
+    <string name="camera_error">No picture from camera. Please retry.</string>
+    <string name="cancel">Cancel</string>
+    <string name="catalan">Catalan</string>
+    <string name="cherokee">Cherokee</string>
+    <string name="chinese">Chinese</string>
+    <string name="chinese_tra">Chinese (Traditional)</string>
+    <string name="copy_error">Can\'t copy the image to SD. Please retry.</string>
+    <string name="crop_picture">Crop Picture</string>
+    <string name="czech">Czech</string>
+    <string name="danish">Danish</string>
+    <string name="danish_frak">Danish (Fraktur)</string>
+    <string name="download">Download</string>
+    <string name="dutch">Dutch</string>
+    <string name="english">English</string>
+    <string name="error">Error</string>
+    <string name="extraction_error">File extraction failed. Please retry.</string>
+    <string name="file_saved">Text saved to </string>
+    <string name="finnish">Finnish</string>
+    <string name="french">French</string>
+    <string name="from_camera">Camera</string>
+    <string name="from_gallery">Gallery</string>
+    <string name="gallery_error">No picture from gallery. Please retry.</string>
+    <string name="german">German</string>
+    <string name="german_frak">German (Fraktur)</string>
+    <string name="greek">Greek</string>
+    <string name="hebrew">Hebrew</string>
+    <string name="hello">Hello World, Welcome to NoteShort!</string>
+    <string name="hint">You deleted your text! Please press Re-write!</string>
+    <string name="hungarian">Hungarian</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="info">Pick up an image from…</string>
+    <string name="info2">This is your text:</string>
+    <string name="info3">Are you sure to download this language?\n(the file may be very large)</string>
+    <string name="info4">Long press on text to copy it to clipboard</string>
+    <string name="italian">Italian</string>
+    <string name="japanese">Japanese</string>
+    <string name="korean">Korean</string>
+    <string name="language">Language</string>
+    <string name="language_download">Downloading language file…</string>
+    <string name="language_error">Language not available. TTS aborted.</string>
+    <string name="latvian">Latvian</string>
+    <string name="lithuanian">Lithuanian</string>
+    <string name="logo">Welcome to andro c r</string>
+    <string name="maps">Maps</string>
+    <string name="maps_error">Map service not available. Please retry.</string>
+    <string name="network_error">You need an internet connection to download this language.</string>
+    <string name="newimage">New Image</string>
+    <string name="no">No</string>
+    <string name="norwegian">Norwegian</string>
+    <string name="ocr_error">OCR failed. Please be sure to download language file(s) and retry.</string>
+    <string name="ok">OK</string>
+    <string name="picked_image">Picked Image from Source</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="polish">Polish</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="rate">Rate this app</string>
+    <string name="rewrite">Rewrite</string>
+    <string name="romanian">Romanian</string>
+    <string name="rotate_left">Rotate Left</string>
+    <string name="rotate_right">Rotate Right</string>
+    <string name="russian">Russian</string>
+    <string name="save">Save on file</string>
+    <string name="sd_error">SD not mounted or not writeable.</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="selected_language">Language:</string>
+    <string name="selected_text_layout">Text Layout:</string>
+    <string name="serbian">Serbian</string>
+    <string name="slovakian">Slovakian</string>
+    <string name="slovenian">Slovenian</string>
+    <string name="spanish">Spanish</string>
+    <string name="start_ocr">Start OCR</string>
+    <string name="stop">Stop</string>
+    <string name="swedish">Swedish</string>
+    <string name="swedish_frak">Swedish (Fraktur)</string>
+    <string name="tagalog">Tagalog</string>
+    <string name="text_layout">Text Layout</string>
+    <string name="translate">Translate</string>
+    <string name="translate_error">Translation failed. Check your internet connection or try again later.</string>
+    <string name="translate_to">Translate to</string>
+    <string name="tts">TTS</string>
+    <string name="tts_download">Download TTS data</string>
+    <string name="tts_install_error">Can\'t install TTS data. TTS is not available.</string>
+    <string name="tts_message">You need to download additional data to use TTS. Do you want to do it now?</string>
+    <string name="turkish">Turkish</string>
+    <string name="ukrainian">Ukrainian</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="yes">Yes</string>
+    <!-- From: file:/C:/Users/acer/Desktop/NoteShort/app/src/main/res/values/themes.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <!-- Any customizations for your app running on pre-3.0 devices here -->
+    </style>
+    <style name="BarTheme" parent="@android:style/ButtonBar">
+        <!-- Any customizations for your app running on pre-3.0 devices here -->
+    </style>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal|center_vertical"
+    android:orientation="vertical" >
+<WebView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/webView1"
+    android:layout_width="fill_parent"
+    android:layout_height="312dp"
+    android:layout_weight="0.75" />
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+        <Button
+            android:id="@+id/button_mindmap"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="10dp"
+            android:textSize="22sp"
+            android:text="@string/Generate_Mindmap"
+            android:background="@drawable/holo_button_anim"
+            android:textColor="@android:color/black"
+            android:onClick="Generate Mindmap"
+            />
+        <ProgressBar
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/progressBar"
+            android:layout_gravity="right"
+            android:layout_alignLeft="@+id/button_mindmap"
+            />
+
+    </LinearLayout>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:text=""
+        android:id="@+id/buttonToggler"
+        android:layout_gravity="right" />
+</LinearLayout>

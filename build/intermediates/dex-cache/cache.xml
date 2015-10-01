@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\acer\Desktop\NoteShort\app\build\intermediates\exploded-aar\NoteShort\tess-two\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5bdc4f1f352933476ab7ecb8ac73f620659a08ca">
+        <dex dex="C:\Users\acer\Desktop\NoteShort\app\build\intermediates\pre-dexed\debug\classes-3db4e8b571d71f50d8c3a01f64f7a4dcc269a7c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\NoteShort\app\libs\jtar-1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3852e8d03269dfdb3500175cb09fd7c47a6b4515">
+        <dex dex="C:\Users\acer\Desktop\NoteShort\app\build\intermediates\pre-dexed\debug\jtar-1.1-1fe10addaf18c59cff5e9b10ea18d16e5c25a1ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\NoteShort\app\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\acer\Desktop\NoteShort\app\build\intermediates\pre-dexed\debug\json_simple-1.1-8033d782401c74148abb31b16cae8be6d1f6544d.jar" />
+    </item>
+    <item
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\acer\Desktop\NoteShort\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-3626930b7c6ab0d248ae4672a51b8283ea160e91.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\NoteShort\app\libs\microsoft-translator-java-api-0.6-mod.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a05f70c92390b660aa3d27c180228d46bc93bb11">
+        <dex dex="C:\Users\acer\Desktop\NoteShort\app\build\intermediates\pre-dexed\debug\microsoft-translator-java-api-0.6-mod-b6e8506f0711bcd822684da3f857e68fc69d69b1.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/acer/Desktop/NoteShort/app/src/main/res/values-v11/themes.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="@android:style/Theme.Holo">
+        <!-- Any customizations for your app running on devices with Theme.Holo here -->
+    </style>
+    <style name="BarTheme" parent="@android:style/ButtonBar">
+        <!-- Any customizations for your app running on pre-3.0 devices here -->
+    </style>
+</resources>
